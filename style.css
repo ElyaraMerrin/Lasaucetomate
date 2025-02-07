@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1 {   
+  font-family: "Fascinate", serif;
+  text-align: center;
+  border-style: dotted;
+  border-radius: 40px;
+  border-color: #FF4A1C;
+  border-width: 20px;
+  padding: 20px
+  
+}
+
+html {
+font-family: "bricolage grotesque", monospace;
+  max-width: 501px;
+  margin: auto;
+background-color: #F8E9E5;
+}
+.article {
+  background-color:#FF4A1C;
+  padding: 17px 20px;
+  margin: 17px 12px;
+  border-radius: 50px;
+  border-style: solid;
+  border-width: 7px;
+  border-color: green #F8E9E5 #F8E9E5 green;
+}
+.special {
+  background-color: #F9B630;
+  }
+.special h2{
+  color: #FF4A1C;
+}
+h2 {
+  text-align : center;
+  color: #F9B630
+}
+span {
+    font-family: "fascinate", sérif;
+}
