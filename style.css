@@ -14,13 +14,13 @@ h1 {
 
 html {
 font-family: "bricolage grotesque", monospace;
-  max-width: 501px;
+  max-width: 630px;
   margin: auto;
 background-color: #F8E9E5;
 }
 .article {
   background-color:#FF4A1C;
-  padding: 17px 20px;
+  padding: 15px 15px;
   margin: 17px 12px;
   border-radius: 50px;
   border-style: solid;
