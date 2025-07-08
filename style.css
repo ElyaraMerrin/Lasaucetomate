@@ -45,4 +45,5 @@ img {
     width: 35%;
     margin: auto;
     display: block;
+    border: 10px blue;
   }
