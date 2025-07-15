@@ -40,3 +40,10 @@ h2 {
 span {
     font-family: "fascinate", sérif;
 }
+
+img {
+    width: 120px;
+    margin: auto;
+    display: block;
+    border: 10px blue;
+  }
