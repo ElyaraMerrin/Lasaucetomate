@@ -47,3 +47,9 @@ img {
     display: block;
     border: 10px blue;
   }
+
+.imagesArt
+{display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 100px);
+}
