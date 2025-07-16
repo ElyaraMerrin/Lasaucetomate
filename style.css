@@ -47,3 +47,25 @@ img {
     display: block;
     border: 10px blue;
   }
+
+.imagesArt
+{display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.box {
+  text-align: center;}
+
+.box img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display:block;
+}
+
+figcaption {
+  margin-top: 0,5 rem;
+  font-style: italic;
+}
