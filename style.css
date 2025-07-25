@@ -66,6 +66,10 @@ img {
 }
 
 figcaption {
-  margin-top: 0,5 rem;
+  margin-top: 0.5rem;
   font-style: italic;
+}
+
+li {
+  margin-block-end: 0.6rem;
 }
